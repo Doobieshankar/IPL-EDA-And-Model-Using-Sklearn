@@ -28,6 +28,8 @@ The dataset includes the following types of information:
 - 📊 Pandas
 - 📈 Matplotlib
 - 🎨 Seaborn
+- 📂 Sklearn
+- 🔍 Joblib
 - 📓 Jupyter Notebook / VS Code
 
 ---
